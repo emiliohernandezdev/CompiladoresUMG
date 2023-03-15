@@ -1,0 +1,6 @@
+int num = 990;
+int suma = 10;
+var contador = 1;
+int addition = num + suma;
+double divi = num / suma;
+int num1 = 23;
